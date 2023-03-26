@@ -24,11 +24,11 @@ function Roadmaps( {children} ) {
       </div>
       <Outlet />
 
-      <span className="w-full text-center text-4xl md:text-5xl text-white mt-24 mb-16 drop-shadow-xl font-poppins">
+      {/* <span className="w-full text-center text-4xl md:text-5xl text-white mt-24 mb-16 drop-shadow-xl font-poppins">
       <Fade  delay={100} duration={1000}>
         Positions
         </Fade>
-      </span>
+      </span> */}
 
       {/* <div className="flex flex-wrap justify-center items-center mx-4">
       <Fade  delay={100} duration={1000}>
